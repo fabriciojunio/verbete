@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.ruff_cache/
+*.egg-info/
+
+# O corpus baixado e grande e reproduzivel pelo 01_coletar.py. O que fica
+# versionado e o cartao do dado, que diz qual recorte foi baixado e quando.
+resultados/proposicoes.json
+resultados/*.npy

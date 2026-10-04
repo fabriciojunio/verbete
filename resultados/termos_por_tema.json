@@ -1,0 +1,3070 @@
+{
+  "Administração Pública": {
+    "a_favor": [
+      {
+        "termo": "publicos",
+        "peso": 4.321935769421521
+      },
+      {
+        "termo": "publico",
+        "peso": 3.1901817882130343
+      },
+      {
+        "termo": "administracao",
+        "peso": 2.854687421773584
+      },
+      {
+        "termo": "uniao",
+        "peso": 2.274375425681058
+      },
+      {
+        "termo": "administracao publica",
+        "peso": 2.2066621387271845
+      },
+      {
+        "termo": "orgaos",
+        "peso": 2.205533136657856
+      },
+      {
+        "termo": "licitacoes",
+        "peso": 2.043133669505751
+      },
+      {
+        "termo": "abril",
+        "peso": 1.9935205775113127
+      },
+      {
+        "termo": "publica",
+        "peso": 1.9539046517067085
+      },
+      {
+        "termo": "setembro outras",
+        "peso": 1.9140233573413286
+      },
+      {
+        "termo": "entre",
+        "peso": 1.7972474042278421
+      },
+      {
+        "termo": "republica",
+        "peso": 1.7693506537715888
+      }
+    ],
+    "contra": [
+      {
+        "termo": "codigo",
+        "peso": -2.0321381472387796
+      },
+      {
+        "termo": "uso",
+        "peso": -1.5936515447712067
+      },
+      {
+        "termo": "dia",
+        "peso": -1.5292929624098983
+      },
+      {
+        "termo": "janeiro",
+        "peso": -1.473404861956542
+      },
+      {
+        "termo": "brasil",
+        "peso": -1.3207034043443444
+      },
+      {
+        "termo": "estabelecimentos",
+        "peso": -1.2009657141129582
+      },
+      {
+        "termo": "saude",
+        "peso": -1.136865603668441
+      },
+      {
+        "termo": "regulamenta",
+        "peso": -1.126284970705585
+      },
+      {
+        "termo": "transito",
+        "peso": -1.1218662942340283
+      },
+      {
+        "termo": "imposto",
+        "peso": -1.119976052464587
+      },
+      {
+        "termo": "garantir",
+        "peso": -1.09246085425032
+      },
+      {
+        "termo": "privados",
+        "peso": -1.061492385943061
+      }
+    ]
+  },
+  "Agricultura, Pecuária, Pesca e Extrativismo": {
+    "a_favor": [
+      {
+        "termo": "rural",
+        "peso": 4.767562986708513
+      },
+      {
+        "termo": "rurais",
+        "peso": 3.727412143965135
+      },
+      {
+        "termo": "producao",
+        "peso": 3.4784349095277753
+      },
+      {
+        "termo": "pesca",
+        "peso": 2.983855162883502
+      },
+      {
+        "termo": "sustentavel",
+        "peso": 2.7248113413338264
+      },
+      {
+        "termo": "agricultura",
+        "peso": 2.622298489932887
+      },
+      {
+        "termo": "agricultura familiar",
+        "peso": 2.622298489932887
+      },
+      {
+        "termo": "produtores",
+        "peso": 2.5759597037026425
+      },
+      {
+        "termo": "produtos",
+        "peso": 2.5594757886425854
+      },
+      {
+        "termo": "alta",
+        "peso": 2.4460165914913823
+      },
+      {
+        "termo": "agricola",
+        "peso": 2.3729128463717153
+      },
+      {
+        "termo": "institui",
+        "peso": 2.2717306937912065
+      }
+    ],
+    "contra": [
+      {
+        "termo": "codigo",
+        "peso": -1.5347489422756153
+      },
+      {
+        "termo": "civil",
+        "peso": -1.1236777883006137
+      },
+      {
+        "termo": "educacao",
+        "peso": -1.071675187650503
+      },
+      {
+        "termo": "dia",
+        "peso": -1.0690890874798042
+      },
+      {
+        "termo": "violencia",
+        "peso": -1.0195621325622948
+      },
+      {
+        "termo": "pessoa",
+        "peso": -0.9689031398540308
+      },
+      {
+        "termo": "transporte",
+        "peso": -0.9485516585302748
+      },
+      {
+        "termo": "saude",
+        "peso": -0.9435566295840597
+      },
+      {
+        "termo": "deficiencia",
+        "peso": -0.9306655172962136
+      },
+      {
+        "termo": "marco",
+        "peso": -0.9235450081993732
+      },
+      {
+        "termo": "obrigatoriedade",
+        "peso": -0.9202800785443644
+      },
+      {
+        "termo": "agosto",
+        "peso": -0.8950517142880305
+      }
+    ]
+  },
+  "Arte, Cultura e Religião": {
+    "a_favor": [
+      {
+        "termo": "cultura",
+        "peso": 5.233111401179747
+      },
+      {
+        "termo": "culturais",
+        "peso": 3.483303233801798
+      },
+      {
+        "termo": "obrigatoriedade",
+        "peso": 3.0385423464409262
+      },
+      {
+        "termo": "eventos",
+        "peso": 3.010548952232439
+      },
+      {
+        "termo": "cultural",
+        "peso": 2.9724484996876424
+      },
+      {
+        "termo": "liberdade",
+        "peso": 2.9537439678265405
+      },
+      {
+        "termo": "espetaculos",
+        "peso": 2.7832611657513247
+      },
+      {
+        "termo": "patrimonio",
+        "peso": 2.741619882736511
+      },
+      {
+        "termo": "memorial",
+        "peso": 2.6576945371418605
+      },
+      {
+        "termo": "entretenimento",
+        "peso": 2.5362975202146356
+      },
+      {
+        "termo": "artistico",
+        "peso": 2.395879126060083
+      },
+      {
+        "termo": "contratacao",
+        "peso": 2.3634240654226844
+      }
+    ],
+    "contra": [
+      {
+        "termo": "saude",
+        "peso": -1.6809388276125954
+      },
+      {
+        "termo": "contra",
+        "peso": -1.151160895218264
+      },
+      {
+        "termo": "educacao",
+        "peso": -1.1183668284275499
+      },
+      {
+        "termo": "codigo",
+        "peso": -1.0641643694560956
+      },
+      {
+        "termo": "sistema",
+        "peso": -0.937260191312039
+      },
+      {
+        "termo": "civil",
+        "peso": -0.9130943637703695
+      },
+      {
+        "termo": "pessoa",
+        "peso": -0.9114426859986612
+      },
+      {
+        "termo": "marco",
+        "peso": -0.9001919648365874
+      },
+      {
+        "termo": "estatuto",
+        "peso": -0.891053690772062
+      },
+      {
+        "termo": "mulheres",
+        "peso": -0.862067814997727
+      },
+      {
+        "termo": "decreto dezembro",
+        "peso": -0.8357073013783909
+      },
+      {
+        "termo": "transporte",
+        "peso": -0.825463825209264
+      }
+    ]
+  },
+  "Cidades e Desenvolvimento Urbano": {
+    "a_favor": [
+      {
+        "termo": "habitacao",
+        "peso": 3.307473492529449
+      },
+      {
+        "termo": "casa",
+        "peso": 3.158769932964937
+      },
+      {
+        "termo": "areas",
+        "peso": 3.1177710256789477
+      },
+      {
+        "termo": "veiculos",
+        "peso": 2.7372168946980016
+      },
+      {
+        "termo": "espacos publicos",
+        "peso": 2.6940987006096897
+      },
+      {
+        "termo": "censo",
+        "peso": 2.5657823144040277
+      },
+      {
+        "termo": "habitacional",
+        "peso": 2.4263445339782033
+      },
+      {
+        "termo": "programa",
+        "peso": 2.2533673048741325
+      },
+      {
+        "termo": "imovel",
+        "peso": 2.2271408164613344
+      },
+      {
+        "termo": "urbana",
+        "peso": 2.212816333338637
+      },
+      {
+        "termo": "infraestrutura",
+        "peso": 2.138586119102998
+      },
+      {
+        "termo": "verde",
+        "peso": 2.131026240913745
+      }
+    ],
+    "contra": [
+      {
+        "termo": "decreto",
+        "peso": -1.3773362314296922
+      },
+      {
+        "termo": "saude",
+        "peso": -1.2450361477237113
+      },
+      {
+        "termo": "cria",
+        "peso": -1.1416743015413822
+      },
+      {
+        "termo": "educacao",
+        "peso": -1.137701725920327
+      },
+      {
+        "termo": "pessoas",
+        "peso": -1.0218146745491037
+      },
+      {
+        "termo": "estabelecer",
+        "peso": -1.013149000490192
+      },
+      {
+        "termo": "junho",
+        "peso": -0.9949659319203633
+      },
+      {
+        "termo": "estado",
+        "peso": -0.8895012662797525
+      },
+      {
+        "termo": "penal",
+        "peso": -0.8440402385542911
+      },
+      {
+        "termo": "crimes",
+        "peso": -0.8279239174572535
+      },
+      {
+        "termo": "crime",
+        "peso": -0.8243647910653014
+      },
+      {
+        "termo": "criacao",
+        "peso": -0.8194214071171007
+      }
+    ]
+  },
+  "Ciência, Tecnologia e Inovação": {
+    "a_favor": [
+      {
+        "termo": "pesquisa",
+        "peso": 4.212732471202916
+      },
+      {
+        "termo": "informatica",
+        "peso": 4.1503223373469105
+      },
+      {
+        "termo": "digital",
+        "peso": 3.921558347362492
+      },
+      {
+        "termo": "desenvolvimento",
+        "peso": 3.5110112756072533
+      },
+      {
+        "termo": "internet",
+        "peso": 3.4274518760304438
+      },
+      {
+        "termo": "inclusao digital",
+        "peso": 3.093964789397329
+      },
+      {
+        "termo": "atividades",
+        "peso": 2.98956113445588
+      },
+      {
+        "termo": "geral",
+        "peso": 2.8502047691665306
+      },
+      {
+        "termo": "inteligencia artificial",
+        "peso": 2.7885624849975774
+      },
+      {
+        "termo": "artificial",
+        "peso": 2.7885624849975774
+      },
+      {
+        "termo": "sistemas",
+        "peso": 2.6273553511852823
+      },
+      {
+        "termo": "inteligencia",
+        "peso": 2.599725143796584
+      }
+    ],
+    "contra": [
+      {
+        "termo": "dezembro",
+        "peso": -1.2283914068394701
+      },
+      {
+        "termo": "codigo",
+        "peso": -0.9422118887480351
+      },
+      {
+        "termo": "nacional",
+        "peso": -0.8623254609460124
+      },
+      {
+        "termo": "publica",
+        "peso": -0.8432651619409645
+      },
+      {
+        "termo": "pessoas",
+        "peso": -0.8092853583493737
+      },
+      {
+        "termo": "setembro",
+        "peso": -0.7689940908461299
+      },
+      {
+        "termo": "estabelece",
+        "peso": -0.76763533659418
+      },
+      {
+        "termo": "junho",
+        "peso": -0.7276632154220329
+      },
+      {
+        "termo": "janeiro",
+        "peso": -0.6713128519536153
+      },
+      {
+        "termo": "dia",
+        "peso": -0.6081459299760136
+      },
+      {
+        "termo": "educacao",
+        "peso": -0.60086386191341
+      },
+      {
+        "termo": "cria",
+        "peso": -0.5819470556123172
+      }
+    ]
+  },
+  "Ciências Exatas e da Terra": {
+    "a_favor": [],
+    "contra": []
+  },
+  "Ciências Sociais e Humanas": {
+    "a_favor": [],
+    "contra": []
+  },
+  "Comunicações": {
+    "a_favor": [
+      {
+        "termo": "servicos",
+        "peso": 4.378111910996303
+      },
+      {
+        "termo": "publicidade",
+        "peso": 3.8258628077378205
+      },
+      {
+        "termo": "internet",
+        "peso": 3.6984905224452955
+      },
+      {
+        "termo": "informacao",
+        "peso": 3.4668514914845354
+      },
+      {
+        "termo": "noticias",
+        "peso": 3.372234640697285
+      },
+      {
+        "termo": "obrigatoriedade",
+        "peso": 3.3384541143019506
+      },
+      {
+        "termo": "envio",
+        "peso": 3.14493854687656
+      },
+      {
+        "termo": "comunicacao",
+        "peso": 2.9783707125056904
+      },
+      {
+        "termo": "telecomunicacoes",
+        "peso": 2.9591032150539704
+      },
+      {
+        "termo": "inclusao digital",
+        "peso": 2.8644143591337223
+      },
+      {
+        "termo": "sociais",
+        "peso": 2.8230268049989244
+      },
+      {
+        "termo": "decreto fevereiro",
+        "peso": 2.7493981253545536
+      }
+    ],
+    "contra": [
+      {
+        "termo": "nacional",
+        "peso": -1.8379681614797758
+      },
+      {
+        "termo": "saude",
+        "peso": -1.5410652914636227
+      },
+      {
+        "termo": "pessoas",
+        "peso": -1.1606213356631188
+      },
+      {
+        "termo": "civil",
+        "peso": -0.9229876537902851
+      },
+      {
+        "termo": "dezembro",
+        "peso": -0.8914894457021071
+      },
+      {
+        "termo": "estatuto",
+        "peso": -0.8707828838600827
+      },
+      {
+        "termo": "crimes",
+        "peso": -0.856836715107513
+      },
+      {
+        "termo": "pessoa",
+        "peso": -0.8534594684123591
+      },
+      {
+        "termo": "estabelecer",
+        "peso": -0.8433299244952968
+      },
+      {
+        "termo": "deficiencia",
+        "peso": -0.8386598420481799
+      },
+      {
+        "termo": "ambito",
+        "peso": -0.8055759970867468
+      },
+      {
+        "termo": "estado",
+        "peso": -0.7929250108809539
+      }
+    ]
+  },
+  "Defesa e Segurança": {
+    "a_favor": [
+      {
+        "termo": "seguranca",
+        "peso": 5.966715344860676
+      },
+      {
+        "termo": "militares",
+        "peso": 3.2737725442343217
+      },
+      {
+        "termo": "seguranca publica",
+        "peso": 2.8764073754453556
+      },
+      {
+        "termo": "fogo",
+        "peso": 2.7822530234064144
+      },
+      {
+        "termo": "arma",
+        "peso": 2.5077991124016243
+      },
+      {
+        "termo": "armas",
+        "peso": 2.4635381068822046
+      },
+      {
+        "termo": "defesa civil",
+        "peso": 2.2553469386796237
+      },
+      {
+        "termo": "policial",
+        "peso": 2.235851502140457
+      },
+      {
+        "termo": "militar",
+        "peso": 2.1591220342686595
+      },
+      {
+        "termo": "violencia",
+        "peso": 2.12206775141115
+      },
+      {
+        "termo": "risco",
+        "peso": 2.1087457547992314
+      },
+      {
+        "termo": "decreto julho",
+        "peso": 2.0925426924971053
+      }
+    ],
+    "contra": [
+      {
+        "termo": "saude",
+        "peso": -1.836770678711886
+      },
+      {
+        "termo": "codigo",
+        "peso": -1.3287999236504198
+      },
+      {
+        "termo": "animais",
+        "peso": -1.2775277446296553
+      },
+      {
+        "termo": "dia",
+        "peso": -1.2632752152408109
+      },
+      {
+        "termo": "cria",
+        "peso": -1.2246405760785337
+      },
+      {
+        "termo": "nacional",
+        "peso": -1.2075659856000587
+      },
+      {
+        "termo": "educacao",
+        "peso": -1.1529425553202308
+      },
+      {
+        "termo": "pessoas",
+        "peso": -1.1512761643553693
+      },
+      {
+        "termo": "institui",
+        "peso": -1.0899819783777753
+      },
+      {
+        "termo": "pessoa",
+        "peso": -1.0824096656996225
+      },
+      {
+        "termo": "acesso",
+        "peso": -1.0538770295534996
+      },
+      {
+        "termo": "trabalho",
+        "peso": -1.0191764667095227
+      }
+    ]
+  },
+  "Direito Civil e Processual Civil": {
+    "a_favor": [
+      {
+        "termo": "civil",
+        "peso": 5.619594117135035
+      },
+      {
+        "termo": "codigo civil",
+        "peso": 3.6170298562409666
+      },
+      {
+        "termo": "marco",
+        "peso": 2.531940083132484
+      },
+      {
+        "termo": "tratar",
+        "peso": 2.453056101910021
+      },
+      {
+        "termo": "direitos",
+        "peso": 2.4235089540947166
+      },
+      {
+        "termo": "imoveis",
+        "peso": 2.373117902991913
+      },
+      {
+        "termo": "processo civil",
+        "peso": 2.3710937164436
+      },
+      {
+        "termo": "registros",
+        "peso": 2.1964663412635272
+      },
+      {
+        "termo": "processual",
+        "peso": 2.104311857375337
+      },
+      {
+        "termo": "processo",
+        "peso": 2.007145049349228
+      },
+      {
+        "termo": "janeiro codigo",
+        "peso": 1.9706340623140755
+      },
+      {
+        "termo": "acao",
+        "peso": 1.9577667233896112
+      }
+    ],
+    "contra": [
+      {
+        "termo": "penal",
+        "peso": -1.7783152081577263
+      },
+      {
+        "termo": "saude",
+        "peso": -1.5587130865182182
+      },
+      {
+        "termo": "institui",
+        "peso": -1.3280206576892946
+      },
+      {
+        "termo": "uso",
+        "peso": -1.294652878495548
+      },
+      {
+        "termo": "programa",
+        "peso": -1.28818460573427
+      },
+      {
+        "termo": "decreto",
+        "peso": -1.1874157885662233
+      },
+      {
+        "termo": "junho",
+        "peso": -1.1772330068128223
+      },
+      {
+        "termo": "abril",
+        "peso": -1.1701753585851289
+      },
+      {
+        "termo": "brasileiro",
+        "peso": -1.1543659016204713
+      },
+      {
+        "termo": "politica",
+        "peso": -1.1509363970387667
+      },
+      {
+        "termo": "criacao",
+        "peso": -1.12898951701133
+      },
+      {
+        "termo": "codigo penal",
+        "peso": -1.1197748173069682
+      }
+    ]
+  },
+  "Direito Constitucional": {
+    "a_favor": [
+      {
+        "termo": "democratica",
+        "peso": 3.191896291674366
+      },
+      {
+        "termo": "oficiais",
+        "peso": 3.0207118147854772
+      },
+      {
+        "termo": "constitucionalidade",
+        "peso": 2.969885875405896
+      },
+      {
+        "termo": "decisoes",
+        "peso": 2.8689567613063875
+      },
+      {
+        "termo": "instituicoes financeiras",
+        "peso": 2.855164002686614
+      },
+      {
+        "termo": "concede anistia",
+        "peso": 2.8283185015706267
+      },
+      {
+        "termo": "financeiras",
+        "peso": 2.7029978760367865
+      },
+      {
+        "termo": "anistia",
+        "peso": 2.4795881320262776
+      },
+      {
+        "termo": "responsabilidade",
+        "peso": 2.395578569805675
+      },
+      {
+        "termo": "dezembro assegurar",
+        "peso": 2.3831433905526636
+      },
+      {
+        "termo": "setembro outras",
+        "peso": 2.301026392692084
+      },
+      {
+        "termo": "mandato",
+        "peso": 2.2881058242174004
+      }
+    ],
+    "contra": [
+      {
+        "termo": "nacional",
+        "peso": -0.751110371935343
+      },
+      {
+        "termo": "institui",
+        "peso": -0.6625361412185632
+      },
+      {
+        "termo": "codigo",
+        "peso": -0.5860117279966379
+      },
+      {
+        "termo": "dispor",
+        "peso": -0.5560231454845933
+      },
+      {
+        "termo": "decreto",
+        "peso": -0.5040428719922398
+      },
+      {
+        "termo": "julho",
+        "peso": -0.49604019167530333
+      },
+      {
+        "termo": "saude",
+        "peso": -0.4752187600872275
+      },
+      {
+        "termo": "pessoas",
+        "peso": -0.4181370806310399
+      },
+      {
+        "termo": "penal",
+        "peso": -0.3812280396199977
+      },
+      {
+        "termo": "publica",
+        "peso": -0.371837347145574
+      },
+      {
+        "termo": "estabelece",
+        "peso": -0.3685687524232169
+      },
+      {
+        "termo": "programa",
+        "peso": -0.348724865364079
+      }
+    ]
+  },
+  "Direito Penal e Processual Penal": {
+    "a_favor": [
+      {
+        "termo": "penal",
+        "peso": 5.169116976462103
+      },
+      {
+        "termo": "crimes",
+        "peso": 4.67640176421799
+      },
+      {
+        "termo": "decreto",
+        "peso": 4.009533233949184
+      },
+      {
+        "termo": "crime",
+        "peso": 3.730346600597108
+      },
+      {
+        "termo": "contra",
+        "peso": 3.1500761880612487
+      },
+      {
+        "termo": "decreto dezembro",
+        "peso": 3.006076236174713
+      },
+      {
+        "termo": "pena",
+        "peso": 2.8779975072715507
+      },
+      {
+        "termo": "codigo penal",
+        "peso": 2.7994819743609747
+      },
+      {
+        "termo": "violencia",
+        "peso": 2.560951836156547
+      },
+      {
+        "termo": "fevereiro",
+        "peso": 2.017476336733298
+      },
+      {
+        "termo": "atos",
+        "peso": 1.9893109048186925
+      },
+      {
+        "termo": "manifestacoes",
+        "peso": 1.9409602035533773
+      }
+    ],
+    "contra": [
+      {
+        "termo": "nacional",
+        "peso": -1.7593557928529875
+      },
+      {
+        "termo": "saude",
+        "peso": -1.5807082237207841
+      },
+      {
+        "termo": "junho",
+        "peso": -1.2834123325871079
+      },
+      {
+        "termo": "civil",
+        "peso": -1.2818157456139854
+      },
+      {
+        "termo": "transporte",
+        "peso": -1.2529724299069787
+      },
+      {
+        "termo": "deficiencia",
+        "peso": -1.2525788008934482
+      },
+      {
+        "termo": "educacao",
+        "peso": -1.0975318697592766
+      },
+      {
+        "termo": "institui",
+        "peso": -1.0634266352308859
+      },
+      {
+        "termo": "imposto",
+        "peso": -1.000522925934626
+      },
+      {
+        "termo": "servico",
+        "peso": -0.9812053255067822
+      },
+      {
+        "termo": "dia",
+        "peso": -0.9785606837739599
+      },
+      {
+        "termo": "recursos",
+        "peso": -0.970753174873088
+      }
+    ]
+  },
+  "Direito e Defesa do Consumidor": {
+    "a_favor": [
+      {
+        "termo": "consumidor",
+        "peso": 5.50361020917194
+      },
+      {
+        "termo": "precos",
+        "peso": 3.1142164140688005
+      },
+      {
+        "termo": "produtos",
+        "peso": 2.7486418949178093
+      },
+      {
+        "termo": "consumidores",
+        "peso": 2.5805139333244345
+      },
+      {
+        "termo": "planos",
+        "peso": 2.4063034483954224
+      },
+      {
+        "termo": "usuario",
+        "peso": 2.249656688914941
+      },
+      {
+        "termo": "suplementar",
+        "peso": 2.070539432039443
+      },
+      {
+        "termo": "saude suplementar",
+        "peso": 2.070539432039443
+      },
+      {
+        "termo": "petroleo",
+        "peso": 2.062224687882102
+      },
+      {
+        "termo": "preco",
+        "peso": 2.0553928529920795
+      },
+      {
+        "termo": "setembro",
+        "peso": 2.053836970896136
+      },
+      {
+        "termo": "energia eletrica",
+        "peso": 2.0467283397128937
+      }
+    ],
+    "contra": [
+      {
+        "termo": "institui",
+        "peso": -2.1175426832923
+      },
+      {
+        "termo": "julho",
+        "peso": -1.2802787097091672
+      },
+      {
+        "termo": "programa",
+        "peso": -1.2368148321398038
+      },
+      {
+        "termo": "penal",
+        "peso": -1.1498970721877837
+      },
+      {
+        "termo": "nacional",
+        "peso": -1.1047407691656408
+      },
+      {
+        "termo": "federal",
+        "peso": -1.0305968501429832
+      },
+      {
+        "termo": "violencia",
+        "peso": -0.9440359565716289
+      },
+      {
+        "termo": "imposto",
+        "peso": -0.9226222914969823
+      },
+      {
+        "termo": "educacao",
+        "peso": -0.9169249478359605
+      },
+      {
+        "termo": "codigo penal",
+        "peso": -0.8698148014965841
+      },
+      {
+        "termo": "decreto",
+        "peso": -0.8474149219719482
+      },
+      {
+        "termo": "recursos",
+        "peso": -0.8469717789860421
+      }
+    ]
+  },
+  "Direito e Justiça": {
+    "a_favor": [
+      {
+        "termo": "advogados",
+        "peso": 5.045500348977296
+      },
+      {
+        "termo": "advocacia",
+        "peso": 4.279341053883813
+      },
+      {
+        "termo": "justica",
+        "peso": 3.6787071085906025
+      },
+      {
+        "termo": "juizados especiais",
+        "peso": 2.5461418202658064
+      },
+      {
+        "termo": "juizados",
+        "peso": 2.5461418202658064
+      },
+      {
+        "termo": "acoes",
+        "peso": 2.377506108389289
+      },
+      {
+        "termo": "decisoes",
+        "peso": 2.246532874903543
+      },
+      {
+        "termo": "civeis",
+        "peso": 2.217213815003312
+      },
+      {
+        "termo": "metodo",
+        "peso": 2.192786837335206
+      },
+      {
+        "termo": "extrajudicial",
+        "peso": 2.167736048238086
+      },
+      {
+        "termo": "julgado",
+        "peso": 2.127537539411793
+      },
+      {
+        "termo": "estatuto advocacia",
+        "peso": 2.122832172610973
+      }
+    ],
+    "contra": [
+      {
+        "termo": "outras",
+        "peso": -0.9753029445737194
+      },
+      {
+        "termo": "providencias",
+        "peso": -0.9451615934953114
+      },
+      {
+        "termo": "outras providencias",
+        "peso": -0.936855835157747
+      },
+      {
+        "termo": "saude",
+        "peso": -0.9320371011811012
+      },
+      {
+        "termo": "programa",
+        "peso": -0.7710213701674115
+      },
+      {
+        "termo": "publicos",
+        "peso": -0.7426855397953975
+      },
+      {
+        "termo": "junho",
+        "peso": -0.7156382943570069
+      },
+      {
+        "termo": "penal",
+        "peso": -0.6502635889065274
+      },
+      {
+        "termo": "nao",
+        "peso": -0.649223212356547
+      },
+      {
+        "termo": "educacao",
+        "peso": -0.6336516428478441
+      },
+      {
+        "termo": "cria",
+        "peso": -0.6064553416900096
+      },
+      {
+        "termo": "dia",
+        "peso": -0.589626871298132
+      }
+    ]
+  },
+  "Direitos Humanos e Minorias": {
+    "a_favor": [
+      {
+        "termo": "violencia",
+        "peso": 3.023545958190724
+      },
+      {
+        "termo": "pessoas",
+        "peso": 2.9195354083984686
+      },
+      {
+        "termo": "deficiencia",
+        "peso": 2.8459850599487777
+      },
+      {
+        "termo": "mulheres",
+        "peso": 2.4984465568922083
+      },
+      {
+        "termo": "pessoa",
+        "peso": 2.2053344333075096
+      },
+      {
+        "termo": "adolescentes",
+        "peso": 1.9614438941848436
+      },
+      {
+        "termo": "mulher",
+        "peso": 1.8931312768274862
+      },
+      {
+        "termo": "indigenas",
+        "peso": 1.7737795112629977
+      },
+      {
+        "termo": "criancas",
+        "peso": 1.750833527786438
+      },
+      {
+        "termo": "sexual",
+        "peso": 1.7359060549307832
+      },
+      {
+        "termo": "direitos",
+        "peso": 1.6421620984137613
+      },
+      {
+        "termo": "inclusao",
+        "peso": 1.6280202072195165
+      }
+    ],
+    "contra": [
+      {
+        "termo": "animais",
+        "peso": -1.6847441316849254
+      },
+      {
+        "termo": "brasil",
+        "peso": -1.4776306332200606
+      },
+      {
+        "termo": "estado",
+        "peso": -1.1802863172478404
+      },
+      {
+        "termo": "exercicio",
+        "peso": -1.1521567598887572
+      },
+      {
+        "termo": "normas",
+        "peso": -1.1456654735187317
+      },
+      {
+        "termo": "veiculos",
+        "peso": -1.1016842352681042
+      },
+      {
+        "termo": "processo",
+        "peso": -1.09890196497287
+      },
+      {
+        "termo": "fevereiro",
+        "peso": -1.0956768958856105
+      },
+      {
+        "termo": "nacional",
+        "peso": -1.0763288267242614
+      },
+      {
+        "termo": "desenvolvimento",
+        "peso": -1.072556331468218
+      },
+      {
+        "termo": "controle",
+        "peso": -1.0487796120678867
+      },
+      {
+        "termo": "dia",
+        "peso": -1.029505163553982
+      }
+    ]
+  },
+  "Economia": {
+    "a_favor": [
+      {
+        "termo": "credito",
+        "peso": 4.362429574943965
+      },
+      {
+        "termo": "brasil",
+        "peso": 3.811572059385127
+      },
+      {
+        "termo": "dezembro dezembro",
+        "peso": 3.257941713836566
+      },
+      {
+        "termo": "junho",
+        "peso": 3.2416816988103565
+      },
+      {
+        "termo": "financeiras",
+        "peso": 2.535723436892213
+      },
+      {
+        "termo": "digital",
+        "peso": 2.4706437294384465
+      },
+      {
+        "termo": "desenvolvimento",
+        "peso": 2.307230747512996
+      },
+      {
+        "termo": "operacoes",
+        "peso": 2.270801148703358
+      },
+      {
+        "termo": "precos",
+        "peso": 2.2428826662222425
+      },
+      {
+        "termo": "existencia",
+        "peso": 2.1922639416007663
+      },
+      {
+        "termo": "seguro",
+        "peso": 2.1715866799716883
+      },
+      {
+        "termo": "economico",
+        "peso": 2.1281722209575427
+      }
+    ],
+    "contra": [
+      {
+        "termo": "julho",
+        "peso": -1.5547733577529423
+      },
+      {
+        "termo": "publica",
+        "peso": -1.5496993891874595
+      },
+      {
+        "termo": "saude",
+        "peso": -1.3534674355468825
+      },
+      {
+        "termo": "penal",
+        "peso": -1.1446145361395004
+      },
+      {
+        "termo": "federal",
+        "peso": -1.0811790352748814
+      },
+      {
+        "termo": "dia",
+        "peso": -1.0334157428863016
+      },
+      {
+        "termo": "imposto",
+        "peso": -1.0264165042759508
+      },
+      {
+        "termo": "renda",
+        "peso": -1.0245500266980194
+      },
+      {
+        "termo": "publicas",
+        "peso": -1.0187708747707491
+      },
+      {
+        "termo": "inciso",
+        "peso": -0.9619569085826307
+      },
+      {
+        "termo": "ambito",
+        "peso": -0.946419041341874
+      },
+      {
+        "termo": "medidas",
+        "peso": -0.8811915519423194
+      }
+    ]
+  },
+  "Educação": {
+    "a_favor": [
+      {
+        "termo": "educacao",
+        "peso": 6.5925222487107
+      },
+      {
+        "termo": "ensino",
+        "peso": 5.569083902588075
+      },
+      {
+        "termo": "escolas",
+        "peso": 4.8231575734347425
+      },
+      {
+        "termo": "escolar",
+        "peso": 4.476794692471188
+      },
+      {
+        "termo": "estudantes",
+        "peso": 3.3071185103832215
+      },
+      {
+        "termo": "estudantil",
+        "peso": 2.6002366349089385
+      },
+      {
+        "termo": "vagas",
+        "peso": 2.524086378320747
+      },
+      {
+        "termo": "universidade",
+        "peso": 2.428134657348907
+      },
+      {
+        "termo": "fies",
+        "peso": 2.3855532154788524
+      },
+      {
+        "termo": "escola",
+        "peso": 2.326471152590591
+      },
+      {
+        "termo": "escolares",
+        "peso": 2.2049380540399746
+      },
+      {
+        "termo": "alunos",
+        "peso": 2.074205833844113
+      }
+    ],
+    "contra": [
+      {
+        "termo": "dia",
+        "peso": -1.285804847178294
+      },
+      {
+        "termo": "codigo",
+        "peso": -1.1925216981300784
+      },
+      {
+        "termo": "civil",
+        "peso": -1.1892534128386127
+      },
+      {
+        "termo": "abril",
+        "peso": -1.1309160789818256
+      },
+      {
+        "termo": "sistema",
+        "peso": -1.0562958725724831
+      },
+      {
+        "termo": "fevereiro",
+        "peso": -1.0063381466393042
+      },
+      {
+        "termo": "transporte",
+        "peso": -0.9987912148575049
+      },
+      {
+        "termo": "contra",
+        "peso": -0.9885092127365275
+      },
+      {
+        "termo": "redacao",
+        "peso": -0.9881274489029102
+      },
+      {
+        "termo": "animais",
+        "peso": -0.9591338844889534
+      },
+      {
+        "termo": "dia nacional",
+        "peso": -0.9543899853498345
+      },
+      {
+        "termo": "direitos",
+        "peso": -0.9256033226789855
+      }
+    ]
+  },
+  "Energia, Recursos Hídricos e Minerais": {
+    "a_favor": [
+      {
+        "termo": "energia",
+        "peso": 6.654832048505277
+      },
+      {
+        "termo": "agua",
+        "peso": 4.44251906740328
+      },
+      {
+        "termo": "petroleo",
+        "peso": 4.14882086210314
+      },
+      {
+        "termo": "energia eletrica",
+        "peso": 4.022246905949519
+      },
+      {
+        "termo": "eletrica",
+        "peso": 3.920921897324704
+      },
+      {
+        "termo": "gas",
+        "peso": 3.693269959514476
+      },
+      {
+        "termo": "decreto fevereiro",
+        "peso": 2.4195235510719266
+      },
+      {
+        "termo": "energetica",
+        "peso": 2.3696120085121724
+      },
+      {
+        "termo": "combustiveis",
+        "peso": 2.3144596274249283
+      },
+      {
+        "termo": "minerais",
+        "peso": 2.2762481406982538
+      },
+      {
+        "termo": "exploracao",
+        "peso": 2.235703308743568
+      },
+      {
+        "termo": "politica",
+        "peso": 2.1269933255350275
+      }
+    ],
+    "contra": [
+      {
+        "termo": "saude",
+        "peso": -1.1348724624779074
+      },
+      {
+        "termo": "junho",
+        "peso": -1.131923408393426
+      },
+      {
+        "termo": "educacao",
+        "peso": -1.0496325720996196
+      },
+      {
+        "termo": "pessoas",
+        "peso": -1.0323896208895709
+      },
+      {
+        "termo": "penal",
+        "peso": -0.9929564484704786
+      },
+      {
+        "termo": "setembro",
+        "peso": -0.9714738428046475
+      },
+      {
+        "termo": "dia",
+        "peso": -0.9416913772005979
+      },
+      {
+        "termo": "contra",
+        "peso": -0.9305233339439778
+      },
+      {
+        "termo": "violencia",
+        "peso": -0.8971511807685696
+      },
+      {
+        "termo": "trabalho",
+        "peso": -0.8521166820879682
+      },
+      {
+        "termo": "crime",
+        "peso": -0.8158094283618437
+      },
+      {
+        "termo": "estatuto",
+        "peso": -0.7967614172132471
+      }
+    ]
+  },
+  "Esporte e Lazer": {
+    "a_favor": [
+      {
+        "termo": "esporte",
+        "peso": 4.482619272959061
+      },
+      {
+        "termo": "atletas",
+        "peso": 3.8549700071823216
+      },
+      {
+        "termo": "futebol",
+        "peso": 3.640722027648663
+      },
+      {
+        "termo": "esportivos",
+        "peso": 3.5527887140953203
+      },
+      {
+        "termo": "desporto",
+        "peso": 3.533271751542701
+      },
+      {
+        "termo": "jogos",
+        "peso": 2.911817022211991
+      },
+      {
+        "termo": "brasil",
+        "peso": 2.89411955929773
+      },
+      {
+        "termo": "torcedor",
+        "peso": 2.7438812259214296
+      },
+      {
+        "termo": "maio estatuto",
+        "peso": 2.7438812259214296
+      },
+      {
+        "termo": "fisica",
+        "peso": 2.6762621242537064
+      },
+      {
+        "termo": "esportiva",
+        "peso": 2.660879371931459
+      },
+      {
+        "termo": "premio",
+        "peso": 2.64700146821272
+      }
+    ],
+    "contra": [
+      {
+        "termo": "setembro",
+        "peso": -1.3276324287533636
+      },
+      {
+        "termo": "publica",
+        "peso": -1.1977274075359416
+      },
+      {
+        "termo": "julho",
+        "peso": -1.0605079978822791
+      },
+      {
+        "termo": "contra",
+        "peso": -1.0476471990335112
+      },
+      {
+        "termo": "junho",
+        "peso": -1.0322716977410327
+      },
+      {
+        "termo": "janeiro",
+        "peso": -1.031630652738569
+      },
+      {
+        "termo": "nacional",
+        "peso": -1.000465156890094
+      },
+      {
+        "termo": "violencia",
+        "peso": -0.9974793717255731
+      },
+      {
+        "termo": "transporte",
+        "peso": -0.947955683834813
+      },
+      {
+        "termo": "codigo",
+        "peso": -0.9422816836710877
+      },
+      {
+        "termo": "outubro",
+        "peso": -0.9205548996028039
+      },
+      {
+        "termo": "decreto",
+        "peso": -0.8687967377817426
+      }
+    ]
+  },
+  "Estrutura Fundiária": {
+    "a_favor": [
+      {
+        "termo": "rural",
+        "peso": 5.112325627408826
+      },
+      {
+        "termo": "rurais",
+        "peso": 4.3734938378919965
+      },
+      {
+        "termo": "regularizacao fundiaria",
+        "peso": 3.1390209088185013
+      },
+      {
+        "termo": "fundiaria",
+        "peso": 3.1390209088185013
+      },
+      {
+        "termo": "regularizacao",
+        "peso": 3.038455815675606
+      },
+      {
+        "termo": "esbulho possessorio",
+        "peso": 2.9588706458638083
+      },
+      {
+        "termo": "esbulho",
+        "peso": 2.9588706458638083
+      },
+      {
+        "termo": "possessorio",
+        "peso": 2.9588706458638083
+      },
+      {
+        "termo": "propriedades",
+        "peso": 2.9289155629664654
+      },
+      {
+        "termo": "pequenos",
+        "peso": 2.8123088570824617
+      },
+      {
+        "termo": "terras",
+        "peso": 2.683150325116333
+      },
+      {
+        "termo": "limites",
+        "peso": 2.5601703782461476
+      }
+    ],
+    "contra": [
+      {
+        "termo": "cria",
+        "peso": -0.7477660595427086
+      },
+      {
+        "termo": "penal",
+        "peso": -0.739753393546282
+      },
+      {
+        "termo": "contra",
+        "peso": -0.7385419313409118
+      },
+      {
+        "termo": "saude",
+        "peso": -0.713086627658679
+      },
+      {
+        "termo": "janeiro",
+        "peso": -0.7129041665671155
+      },
+      {
+        "termo": "civil",
+        "peso": -0.6968736761853395
+      },
+      {
+        "termo": "dezembro",
+        "peso": -0.6855015349002643
+      },
+      {
+        "termo": "publicos",
+        "peso": -0.6779337386287042
+      },
+      {
+        "termo": "publicas",
+        "peso": -0.6296290189193444
+      },
+      {
+        "termo": "crime",
+        "peso": -0.6209558809126302
+      },
+      {
+        "termo": "dia",
+        "peso": -0.6202965226489473
+      },
+      {
+        "termo": "educacao",
+        "peso": -0.6091688788332832
+      }
+    ]
+  },
+  "Finanças Públicas e Orçamento": {
+    "a_favor": [
+      {
+        "termo": "imposto",
+        "peso": 4.470151763955371
+      },
+      {
+        "termo": "renda",
+        "peso": 3.2535083704691705
+      },
+      {
+        "termo": "recursos",
+        "peso": 3.097668080251516
+      },
+      {
+        "termo": "incentivos",
+        "peso": 3.0243151039305105
+      },
+      {
+        "termo": "fundo",
+        "peso": 2.9299070635617235
+      },
+      {
+        "termo": "credito",
+        "peso": 2.804489411582909
+      },
+      {
+        "termo": "imposto renda",
+        "peso": 2.5893622766292674
+      },
+      {
+        "termo": "isencao",
+        "peso": 2.43224873581331
+      },
+      {
+        "termo": "dezembro",
+        "peso": 2.32247262158103
+      },
+      {
+        "termo": "tributaria",
+        "peso": 2.0205612006701883
+      },
+      {
+        "termo": "tributario",
+        "peso": 1.9685349148647973
+      },
+      {
+        "termo": "uniao",
+        "peso": 1.8943598322320934
+      }
+    ],
+    "contra": [
+      {
+        "termo": "codigo",
+        "peso": -1.6167875909477254
+      },
+      {
+        "termo": "penal",
+        "peso": -1.5346376883572415
+      },
+      {
+        "termo": "crime",
+        "peso": -1.1710555576968809
+      },
+      {
+        "termo": "uso",
+        "peso": -1.1394716494068517
+      },
+      {
+        "termo": "dia",
+        "peso": -1.1245410567854324
+      },
+      {
+        "termo": "violencia",
+        "peso": -1.1076353592052053
+      },
+      {
+        "termo": "dispor",
+        "peso": -1.0765316410450423
+      },
+      {
+        "termo": "julho",
+        "peso": -1.0722226092217657
+      },
+      {
+        "termo": "agosto",
+        "peso": -1.0495553842483465
+      },
+      {
+        "termo": "codigo penal",
+        "peso": -0.9818616392026005
+      },
+      {
+        "termo": "civil",
+        "peso": -0.9477432229100082
+      },
+      {
+        "termo": "direito",
+        "peso": -0.9412036551729048
+      }
+    ]
+  },
+  "Homenagens e Datas Comemorativas": {
+    "a_favor": [
+      {
+        "termo": "dia",
+        "peso": 5.591433090763513
+      },
+      {
+        "termo": "nacional",
+        "peso": 4.011313389571929
+      },
+      {
+        "termo": "denomina",
+        "peso": 3.4228979560688795
+      },
+      {
+        "termo": "declara",
+        "peso": 3.1310161911714096
+      },
+      {
+        "termo": "homenagens",
+        "peso": 2.9402288004607473
+      },
+      {
+        "termo": "br",
+        "peso": 2.9104820556624067
+      },
+      {
+        "termo": "mes",
+        "peso": 2.883335221428541
+      },
+      {
+        "termo": "semana nacional",
+        "peso": 2.862777334744156
+      },
+      {
+        "termo": "municipio",
+        "peso": 2.849144961499007
+      },
+      {
+        "termo": "dia nacional",
+        "peso": 2.7863206489295
+      },
+      {
+        "termo": "semana",
+        "peso": 2.746138804354485
+      },
+      {
+        "termo": "institui dia",
+        "peso": 2.551572851684865
+      }
+    ],
+    "contra": [
+      {
+        "termo": "dispor",
+        "peso": -1.506501929312266
+      },
+      {
+        "termo": "saude",
+        "peso": -1.3715689459243805
+      },
+      {
+        "termo": "codigo",
+        "peso": -1.3309472469353436
+      },
+      {
+        "termo": "dezembro",
+        "peso": -1.2961099206270785
+      },
+      {
+        "termo": "politica",
+        "peso": -0.9559984399249939
+      },
+      {
+        "termo": "julho",
+        "peso": -0.9435028778256264
+      },
+      {
+        "termo": "obrigatoriedade",
+        "peso": -0.8634678366886155
+      },
+      {
+        "termo": "civil",
+        "peso": -0.8537198651013955
+      },
+      {
+        "termo": "uso",
+        "peso": -0.8424072115348764
+      },
+      {
+        "termo": "penal",
+        "peso": -0.7892009969603836
+      },
+      {
+        "termo": "politica nacional",
+        "peso": -0.7875012989406543
+      },
+      {
+        "termo": "deficiencia",
+        "peso": -0.7819249283633941
+      }
+    ]
+  },
+  "Indústria, Comércio e Serviços": {
+    "a_favor": [
+      {
+        "termo": "produtos",
+        "peso": 3.842700541919593
+      },
+      {
+        "termo": "empresas",
+        "peso": 3.425019672890463
+      },
+      {
+        "termo": "estabelecimentos",
+        "peso": 2.748371893812722
+      },
+      {
+        "termo": "selo",
+        "peso": 2.6381335718198646
+      },
+      {
+        "termo": "comercializacao",
+        "peso": 2.5270378550823738
+      },
+      {
+        "termo": "servicos",
+        "peso": 2.4751562332408414
+      },
+      {
+        "termo": "consumidor",
+        "peso": 2.4257364721054193
+      },
+      {
+        "termo": "bares",
+        "peso": 2.2753096925766427
+      },
+      {
+        "termo": "obriga",
+        "peso": 2.264701915998442
+      },
+      {
+        "termo": "empreendedorismo",
+        "peso": 2.1430132472356935
+      },
+      {
+        "termo": "tratar",
+        "peso": 2.130655995736363
+      },
+      {
+        "termo": "credito",
+        "peso": 2.118654785821295
+      }
+    ],
+    "contra": [
+      {
+        "termo": "civil",
+        "peso": -1.3311662409808513
+      },
+      {
+        "termo": "agosto",
+        "peso": -1.2610383947996817
+      },
+      {
+        "termo": "ensino",
+        "peso": -1.2298351948715638
+      },
+      {
+        "termo": "penal",
+        "peso": -1.1475654133351807
+      },
+      {
+        "termo": "realizacao",
+        "peso": -1.1413274867380656
+      },
+      {
+        "termo": "transporte",
+        "peso": -1.1331865533612684
+      },
+      {
+        "termo": "educacao",
+        "peso": -1.0915802537601684
+      },
+      {
+        "termo": "julho",
+        "peso": -1.0693957528523967
+      },
+      {
+        "termo": "procedimentos",
+        "peso": -1.0375126510031711
+      },
+      {
+        "termo": "prazo",
+        "peso": -1.0352449529370555
+      },
+      {
+        "termo": "dia",
+        "peso": -1.022865743801337
+      },
+      {
+        "termo": "dia nacional",
+        "peso": -0.9933897848343166
+      }
+    ]
+  },
+  "Meio Ambiente e Desenvolvimento Sustentável": {
+    "a_favor": [
+      {
+        "termo": "animais",
+        "peso": 7.001073524695882
+      },
+      {
+        "termo": "ambiental",
+        "peso": 4.236034436023381
+      },
+      {
+        "termo": "animal",
+        "peso": 3.1770042662975415
+      },
+      {
+        "termo": "fevereiro",
+        "peso": 3.087041032234562
+      },
+      {
+        "termo": "ambientais",
+        "peso": 2.9704296072769467
+      },
+      {
+        "termo": "fauna",
+        "peso": 2.8886342866339345
+      },
+      {
+        "termo": "residuos",
+        "peso": 2.491819159342622
+      },
+      {
+        "termo": "utilizacao",
+        "peso": 2.0548369487465656
+      },
+      {
+        "termo": "meio ambiente",
+        "peso": 2.0066461015967283
+      },
+      {
+        "termo": "parque",
+        "peso": 1.9726501688400802
+      },
+      {
+        "termo": "protecao",
+        "peso": 1.8931974575479624
+      },
+      {
+        "termo": "lixo",
+        "peso": 1.8899351372348976
+      }
+    ],
+    "contra": [
+      {
+        "termo": "saude",
+        "peso": -1.5048178031787514
+      },
+      {
+        "termo": "violencia",
+        "peso": -1.332863233410823
+      },
+      {
+        "termo": "sistema",
+        "peso": -1.2297610707689675
+      },
+      {
+        "termo": "trabalho",
+        "peso": -1.1829001664610796
+      },
+      {
+        "termo": "pessoas",
+        "peso": -1.156605148210391
+      },
+      {
+        "termo": "dia",
+        "peso": -1.0836167801345875
+      },
+      {
+        "termo": "acesso",
+        "peso": -1.0590866855040726
+      },
+      {
+        "termo": "mulheres",
+        "peso": -1.0469436143710003
+      },
+      {
+        "termo": "dezembro",
+        "peso": -1.0267691511134018
+      },
+      {
+        "termo": "publicas",
+        "peso": -1.018420751878203
+      },
+      {
+        "termo": "medidas",
+        "peso": -1.0043340101288152
+      },
+      {
+        "termo": "estatuto",
+        "peso": -0.9944910161335859
+      }
+    ]
+  },
+  "Política, Partidos e Eleições": {
+    "a_favor": [
+      {
+        "termo": "eleitoral",
+        "peso": 6.452660253057012
+      },
+      {
+        "termo": "eleicoes",
+        "peso": 5.257560737214479
+      },
+      {
+        "termo": "votos",
+        "peso": 3.7371770597054286
+      },
+      {
+        "termo": "setembro",
+        "peso": 3.674275132743021
+      },
+      {
+        "termo": "periodo",
+        "peso": 3.604515576896944
+      },
+      {
+        "termo": "partidos",
+        "peso": 3.5510947362092455
+      },
+      {
+        "termo": "eleitorais",
+        "peso": 3.37614392714161
+      },
+      {
+        "termo": "politicos",
+        "peso": 3.209094942582468
+      },
+      {
+        "termo": "discorre",
+        "peso": 2.7666586943668614
+      },
+      {
+        "termo": "codigo eleitoral",
+        "peso": 2.7591406935937144
+      },
+      {
+        "termo": "partidos politicos",
+        "peso": 2.6323584190670872
+      },
+      {
+        "termo": "partidaria",
+        "peso": 2.607171480003555
+      }
+    ],
+    "contra": [
+      {
+        "termo": "nacional",
+        "peso": -1.4859726907159188
+      },
+      {
+        "termo": "decreto",
+        "peso": -1.1212331689224062
+      },
+      {
+        "termo": "saude",
+        "peso": -1.0797300765275608
+      },
+      {
+        "termo": "pessoas",
+        "peso": -0.9885459171890664
+      },
+      {
+        "termo": "institui dia",
+        "peso": -0.9176696969538899
+      },
+      {
+        "termo": "dispor",
+        "peso": -0.8910680815068057
+      },
+      {
+        "termo": "publica",
+        "peso": -0.8734236408644659
+      },
+      {
+        "termo": "dezembro",
+        "peso": -0.8451993520047936
+      },
+      {
+        "termo": "penal",
+        "peso": -0.7656638334403696
+      },
+      {
+        "termo": "junho",
+        "peso": -0.7265257394129526
+      },
+      {
+        "termo": "marco",
+        "peso": -0.6844859492292604
+      },
+      {
+        "termo": "incluir",
+        "peso": -0.6618120667384677
+      }
+    ]
+  },
+  "Previdência e Assistência Social": {
+    "a_favor": [
+      {
+        "termo": "auxilio",
+        "peso": 4.19296014729601
+      },
+      {
+        "termo": "beneficio",
+        "peso": 4.035244340414141
+      },
+      {
+        "termo": "social",
+        "peso": 3.269161101036886
+      },
+      {
+        "termo": "previdencia",
+        "peso": 3.226017425518856
+      },
+      {
+        "termo": "julho",
+        "peso": 3.0850444724792006
+      },
+      {
+        "termo": "aposentadoria",
+        "peso": 3.0320313053334265
+      },
+      {
+        "termo": "concessao",
+        "peso": 2.886614757528682
+      },
+      {
+        "termo": "pensao",
+        "peso": 2.7086148430105763
+      },
+      {
+        "termo": "especial",
+        "peso": 2.66662180550016
+      },
+      {
+        "termo": "acolhimento",
+        "peso": 2.6409307754568743
+      },
+      {
+        "termo": "pensao especial",
+        "peso": 2.444763619027627
+      },
+      {
+        "termo": "beneficio prestacao",
+        "peso": 2.4153478897037064
+      }
+    ],
+    "contra": [
+      {
+        "termo": "nacional",
+        "peso": -1.8821836832651826
+      },
+      {
+        "termo": "obrigatoriedade",
+        "peso": -1.0343465381990202
+      },
+      {
+        "termo": "educacao",
+        "peso": -1.0029628202862346
+      },
+      {
+        "termo": "codigo",
+        "peso": -0.9538431755637654
+      },
+      {
+        "termo": "cria",
+        "peso": -0.9523403282005749
+      },
+      {
+        "termo": "uso",
+        "peso": -0.8996188358667471
+      },
+      {
+        "termo": "publica",
+        "peso": -0.866007995511391
+      },
+      {
+        "termo": "estatuto",
+        "peso": -0.839524129504218
+      },
+      {
+        "termo": "crimes",
+        "peso": -0.8377558968617272
+      },
+      {
+        "termo": "permitir",
+        "peso": -0.833767000101169
+      },
+      {
+        "termo": "nao",
+        "peso": -0.8304360500861129
+      },
+      {
+        "termo": "setembro",
+        "peso": -0.8075327910870783
+      }
+    ]
+  },
+  "Processo Legislativo e Atuação Parlamentar": {
+    "a_favor": [
+      {
+        "termo": "congresso",
+        "peso": 3.5355771504982214
+      },
+      {
+        "termo": "congresso nacional",
+        "peso": 3.5355771504982214
+      },
+      {
+        "termo": "camara",
+        "peso": 3.3793394102258243
+      },
+      {
+        "termo": "legislativa",
+        "peso": 2.904914252098021
+      },
+      {
+        "termo": "placas",
+        "peso": 2.7579605183794778
+      },
+      {
+        "termo": "autorizacao",
+        "peso": 2.6133293521794014
+      },
+      {
+        "termo": "obras publicas",
+        "peso": 2.5874702436306074
+      },
+      {
+        "termo": "federal",
+        "peso": 2.5224858373512253
+      },
+      {
+        "termo": "comissao",
+        "peso": 2.348161678937304
+      },
+      {
+        "termo": "exercicio",
+        "peso": 2.3320261925027923
+      },
+      {
+        "termo": "circulacao",
+        "peso": 2.2959546503085084
+      },
+      {
+        "termo": "interesse publico",
+        "peso": 2.226307875606872
+      }
+    ],
+    "contra": [
+      {
+        "termo": "outras",
+        "peso": -0.9139035323539565
+      },
+      {
+        "termo": "providencias",
+        "peso": -0.8957026897111939
+      },
+      {
+        "termo": "outras providencias",
+        "peso": -0.8929096406385233
+      },
+      {
+        "termo": "codigo",
+        "peso": -0.5681984505320439
+      },
+      {
+        "termo": "decreto",
+        "peso": -0.5620981998565371
+      },
+      {
+        "termo": "julho",
+        "peso": -0.5517831685079325
+      },
+      {
+        "termo": "setembro",
+        "peso": -0.5255573830195818
+      },
+      {
+        "termo": "estabelece",
+        "peso": -0.5050894609111415
+      },
+      {
+        "termo": "pessoas",
+        "peso": -0.4684069971608734
+      },
+      {
+        "termo": "programa",
+        "peso": -0.43875878389928613
+      },
+      {
+        "termo": "janeiro",
+        "peso": -0.395077219700346
+      },
+      {
+        "termo": "servicos",
+        "peso": -0.38929969398264397
+      }
+    ]
+  },
+  "Relações Internacionais e Comércio Exterior": {
+    "a_favor": [
+      {
+        "termo": "brasil",
+        "peso": 4.990506241011539
+      },
+      {
+        "termo": "estrangeiros",
+        "peso": 4.209947201182112
+      },
+      {
+        "termo": "inadimplencia",
+        "peso": 3.5893877042556084
+      },
+      {
+        "termo": "exportacao",
+        "peso": 3.243943897150904
+      },
+      {
+        "termo": "financiar",
+        "peso": 3.209762525343328
+      },
+      {
+        "termo": "investimento",
+        "peso": 2.74397525094653
+      },
+      {
+        "termo": "devidos",
+        "peso": 2.6044754705294477
+      },
+      {
+        "termo": "royalties",
+        "peso": 2.6034380206559287
+      },
+      {
+        "termo": "credito",
+        "peso": 2.4436945253620053
+      },
+      {
+        "termo": "credito exportacao",
+        "peso": 2.419696314635937
+      },
+      {
+        "termo": "ingresso",
+        "peso": 2.401699090468942
+      },
+      {
+        "termo": "bens",
+        "peso": 2.309908654726974
+      }
+    ],
+    "contra": [
+      {
+        "termo": "institui",
+        "peso": -1.175689413458032
+      },
+      {
+        "termo": "dezembro",
+        "peso": -0.9202416457727887
+      },
+      {
+        "termo": "saude",
+        "peso": -0.6387080323848563
+      },
+      {
+        "termo": "julho",
+        "peso": -0.6379160651615186
+      },
+      {
+        "termo": "providencias",
+        "peso": -0.6213249961309931
+      },
+      {
+        "termo": "outras providencias",
+        "peso": -0.6178248255498696
+      },
+      {
+        "termo": "setembro",
+        "peso": -0.5416307965160492
+      },
+      {
+        "termo": "programa",
+        "peso": -0.5348053731424708
+      },
+      {
+        "termo": "estabelece",
+        "peso": -0.507650073955616
+      },
+      {
+        "termo": "publica",
+        "peso": -0.47497064341777984
+      },
+      {
+        "termo": "dia",
+        "peso": -0.45798421641563464
+      },
+      {
+        "termo": "publicos",
+        "peso": -0.4220330964171449
+      }
+    ]
+  },
+  "Saúde": {
+    "a_favor": [
+      {
+        "termo": "saude",
+        "peso": 7.414545374590887
+      },
+      {
+        "termo": "medicamentos",
+        "peso": 2.9683314266599945
+      },
+      {
+        "termo": "doencas",
+        "peso": 2.430777024081011
+      },
+      {
+        "termo": "procedimentos",
+        "peso": 2.2424849750423137
+      },
+      {
+        "termo": "tratamento",
+        "peso": 2.238270154806119
+      },
+      {
+        "termo": "conscientizacao",
+        "peso": 2.2369299117089145
+      },
+      {
+        "termo": "doenca",
+        "peso": 2.119772458423735
+      },
+      {
+        "termo": "populacao",
+        "peso": 2.0429296598082836
+      },
+      {
+        "termo": "atendimento",
+        "peso": 1.9021321150986166
+      },
+      {
+        "termo": "cancer",
+        "peso": 1.8337254402191274
+      },
+      {
+        "termo": "terapia",
+        "peso": 1.8132882397840244
+      },
+      {
+        "termo": "cirurgia",
+        "peso": 1.8071477687406146
+      }
+    ],
+    "contra": [
+      {
+        "termo": "codigo",
+        "peso": -2.162379596084021
+      },
+      {
+        "termo": "dezembro",
+        "peso": -1.6079210717633525
+      },
+      {
+        "termo": "crimes",
+        "peso": -1.5317658357242556
+      },
+      {
+        "termo": "transporte",
+        "peso": -1.3770694998273836
+      },
+      {
+        "termo": "brasil",
+        "peso": -1.3236534453572135
+      },
+      {
+        "termo": "estado",
+        "peso": -1.3079715121204782
+      },
+      {
+        "termo": "penal",
+        "peso": -1.138901447145951
+      },
+      {
+        "termo": "energia",
+        "peso": -1.12380761865594
+      },
+      {
+        "termo": "fevereiro",
+        "peso": -1.0191130931968038
+      },
+      {
+        "termo": "educacao",
+        "peso": -0.9903342002714784
+      },
+      {
+        "termo": "contra",
+        "peso": -0.9769394739853229
+      },
+      {
+        "termo": "civil",
+        "peso": -0.9741667599983734
+      }
+    ]
+  },
+  "Trabalho e Emprego": {
+    "a_favor": [
+      {
+        "termo": "trabalho",
+        "peso": 6.161343815715418
+      },
+      {
+        "termo": "profissional",
+        "peso": 3.783318456803417
+      },
+      {
+        "termo": "profissao",
+        "peso": 3.1255755420552003
+      },
+      {
+        "termo": "salarial",
+        "peso": 2.7773529376552384
+      },
+      {
+        "termo": "profissionais",
+        "peso": 2.196281514909831
+      },
+      {
+        "termo": "salario",
+        "peso": 2.0322439823688834
+      },
+      {
+        "termo": "motoristas",
+        "peso": 1.9381434185778594
+      },
+      {
+        "termo": "licenca",
+        "peso": 1.899452015750947
+      },
+      {
+        "termo": "fgts",
+        "peso": 1.893105396669295
+      },
+      {
+        "termo": "trabalhador",
+        "peso": 1.8662251567392392
+      },
+      {
+        "termo": "regulamenta",
+        "peso": 1.7967144194334848
+      },
+      {
+        "termo": "tecnicos",
+        "peso": 1.7660315551296346
+      }
+    ],
+    "contra": [
+      {
+        "termo": "codigo",
+        "peso": -1.6346169796706362
+      },
+      {
+        "termo": "contra",
+        "peso": -1.6332746564197673
+      },
+      {
+        "termo": "penal",
+        "peso": -1.521180093369122
+      },
+      {
+        "termo": "dezembro",
+        "peso": -1.3957216567078512
+      },
+      {
+        "termo": "crimes",
+        "peso": -1.3264446580980431
+      },
+      {
+        "termo": "estado",
+        "peso": -1.306996460882542
+      },
+      {
+        "termo": "incluir",
+        "peso": -1.3047809960681724
+      },
+      {
+        "termo": "animais",
+        "peso": -1.3033524137456025
+      },
+      {
+        "termo": "protecao",
+        "peso": -1.0626236026557112
+      },
+      {
+        "termo": "obrigatoriedade",
+        "peso": -1.0432351471191574
+      },
+      {
+        "termo": "realizacao",
+        "peso": -1.0209350873889225
+      },
+      {
+        "termo": "crime",
+        "peso": -0.9926071840526375
+      }
+    ]
+  },
+  "Turismo": {
+    "a_favor": [
+      {
+        "termo": "turistico",
+        "peso": 6.893475863060011
+      },
+      {
+        "termo": "cria",
+        "peso": 5.638838628189845
+      },
+      {
+        "termo": "turismo",
+        "peso": 4.188956072426934
+      },
+      {
+        "termo": "dezembro outras",
+        "peso": 3.886547257896774
+      },
+      {
+        "termo": "naturais",
+        "peso": 3.428757889826751
+      },
+      {
+        "termo": "incentivos",
+        "peso": 3.390494737892994
+      },
+      {
+        "termo": "turisticos",
+        "peso": 3.300840543227499
+      },
+      {
+        "termo": "turisticos naturais",
+        "peso": 3.300840543227499
+      },
+      {
+        "termo": "areas",
+        "peso": 3.2384059165813963
+      },
+      {
+        "termo": "geologico",
+        "peso": 2.535096781285003
+      },
+      {
+        "termo": "vinculada trabalhador",
+        "peso": 1.9009921524400328
+      },
+      {
+        "termo": "grande sul",
+        "peso": 1.861071628447066
+      }
+    ],
+    "contra": [
+      {
+        "termo": "institui",
+        "peso": -0.9009272989818673
+      },
+      {
+        "termo": "dispor",
+        "peso": -0.6987930048360924
+      },
+      {
+        "termo": "decreto",
+        "peso": -0.6565182593459722
+      },
+      {
+        "termo": "nacional",
+        "peso": -0.6425644890864117
+      },
+      {
+        "termo": "codigo",
+        "peso": -0.6372922061240274
+      },
+      {
+        "termo": "julho",
+        "peso": -0.6363800883412678
+      },
+      {
+        "termo": "saude",
+        "peso": -0.6224461903217955
+      },
+      {
+        "termo": "programa",
+        "peso": -0.6128450247756418
+      },
+      {
+        "termo": "pessoas",
+        "peso": -0.6067321138559582
+      },
+      {
+        "termo": "estabelece",
+        "peso": -0.5373523955768041
+      },
+      {
+        "termo": "federal",
+        "peso": -0.4965140621326936
+      },
+      {
+        "termo": "janeiro",
+        "peso": -0.4437084671217399
+      }
+    ]
+  },
+  "Viação, Transporte e Mobilidade": {
+    "a_favor": [
+      {
+        "termo": "transporte",
+        "peso": 5.490404459852199
+      },
+      {
+        "termo": "transito",
+        "peso": 4.942310054630354
+      },
+      {
+        "termo": "veiculos",
+        "peso": 4.785764323873506
+      },
+      {
+        "termo": "passageiros",
+        "peso": 3.380200476209138
+      },
+      {
+        "termo": "transportes",
+        "peso": 2.9299637637614744
+      },
+      {
+        "termo": "veiculo",
+        "peso": 2.575571154940905
+      },
+      {
+        "termo": "brasileiro",
+        "peso": 2.458340726581573
+      },
+      {
+        "termo": "codigo transito",
+        "peso": 2.3035217886573176
+      },
+      {
+        "termo": "transito brasileiro",
+        "peso": 2.3035217886573176
+      },
+      {
+        "termo": "passagens",
+        "peso": 2.299084428118013
+      },
+      {
+        "termo": "rodovias",
+        "peso": 2.276777413646796
+      },
+      {
+        "termo": "aeroportos",
+        "peso": 2.12796325931797
+      }
+    ],
+    "contra": [
+      {
+        "termo": "saude",
+        "peso": -1.7989957662503733
+      },
+      {
+        "termo": "decreto",
+        "peso": -1.284879290002955
+      },
+      {
+        "termo": "julho",
+        "peso": -1.2149539839612
+      },
+      {
+        "termo": "dezembro",
+        "peso": -1.209393006781724
+      },
+      {
+        "termo": "protecao",
+        "peso": -1.2026004009662516
+      },
+      {
+        "termo": "dia",
+        "peso": -1.1264898085802635
+      },
+      {
+        "termo": "civil",
+        "peso": -1.0112573862997636
+      },
+      {
+        "termo": "realizacao",
+        "peso": -0.964216381574203
+      },
+      {
+        "termo": "penal",
+        "peso": -0.94722526674983
+      },
+      {
+        "termo": "educacao",
+        "peso": -0.9360431115755509
+      },
+      {
+        "termo": "codigo civil",
+        "peso": -0.9173311907580569
+      },
+      {
+        "termo": "energia",
+        "peso": -0.9057689588670307
+      }
+    ]
+  }
+}

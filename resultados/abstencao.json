@@ -1,0 +1,105 @@
+{
+  "curva": [
+    {
+      "corte_de_confianca": 0.3577,
+      "cobertura": 0.9993328885923949,
+      "n_respondidos": 1498,
+      "micro_f1": 0.5417789757412399,
+      "macro_f1": 0.4726792449097181,
+      "acerto_exato": 0.19893190921228304
+    },
+    {
+      "corte_de_confianca": 0.5469,
+      "cobertura": 0.8999332888592395,
+      "n_respondidos": 1349,
+      "micro_f1": 0.571636099509715,
+      "macro_f1": 0.5025777349030389,
+      "acerto_exato": 0.2149740548554485
+    },
+    {
+      "corte_de_confianca": 0.6364,
+      "cobertura": 0.799866577718479,
+      "n_respondidos": 1199,
+      "micro_f1": 0.6044426329733035,
+      "macro_f1": 0.533512946204224,
+      "acerto_exato": 0.23436196830692244
+    },
+    {
+      "corte_de_confianca": 0.7096,
+      "cobertura": 0.6997998665777185,
+      "n_respondidos": 1049,
+      "micro_f1": 0.6211874272409779,
+      "macro_f1": 0.569039044791672,
+      "acerto_exato": 0.2469018112488084
+    },
+    {
+      "corte_de_confianca": 0.7839,
+      "cobertura": 0.5997331554369579,
+      "n_respondidos": 899,
+      "micro_f1": 0.6303395399780942,
+      "macro_f1": 0.5755828603164773,
+      "acerto_exato": 0.25583982202447164
+    },
+    {
+      "corte_de_confianca": 0.8348,
+      "cobertura": 0.49966644429619744,
+      "n_respondidos": 749,
+      "micro_f1": 0.6533513879485443,
+      "macro_f1": 0.5905887041024058,
+      "acerto_exato": 0.27369826435246997
+    },
+    {
+      "corte_de_confianca": 0.8832,
+      "cobertura": 0.39959973315543695,
+      "n_respondidos": 599,
+      "micro_f1": 0.6637516397026672,
+      "macro_f1": 0.6034645860229815,
+      "acerto_exato": 0.2871452420701169
+    },
+    {
+      "corte_de_confianca": 0.9172,
+      "cobertura": 0.3002001334222815,
+      "n_respondidos": 450,
+      "micro_f1": 0.6662679425837321,
+      "macro_f1": 0.5623106326452983,
+      "acerto_exato": 0.29333333333333333
+    },
+    {
+      "corte_de_confianca": 0.9463,
+      "cobertura": 0.200133422281521,
+      "n_respondidos": 300,
+      "micro_f1": 0.6783088235294118,
+      "macro_f1": 0.5645913778921723,
+      "acerto_exato": 0.30333333333333334
+    },
+    {
+      "corte_de_confianca": 0.972,
+      "cobertura": 0.1000667111407605,
+      "n_respondidos": 150,
+      "micro_f1": 0.6939571150097467,
+      "macro_f1": 0.610041526044916,
+      "acerto_exato": 0.32666666666666666
+    }
+  ],
+  "leitura_de_produto": {
+    "f1_alvo": 0.7,
+    "cobertura_no_alvo": null,
+    "melhor_f1_da_curva": 0.6939571150097467
+  },
+  "ganho_maximo_ao_abster": 0.15217813926850676,
+  "temas_que_acerta": [
+    "Homenagens e Datas Comemorativas",
+    "Viação, Transporte e Mobilidade",
+    "Direito Penal e Processual Penal",
+    "Educação",
+    "Saúde"
+  ],
+  "temas_que_erra": [
+    "Direito Constitucional",
+    "Relações Internacionais e Comércio Exterior",
+    "Direito e Justiça",
+    "Esporte e Lazer",
+    "Cidades e Desenvolvimento Urbano"
+  ],
+  "observacao_sobre_a_explicacao": "os termos sao os coeficientes do proprio classificador que decide, nao uma aproximacao posterior. Num setor regulado, explicacao que nao vem do modelo que decidiu e so uma segunda opiniao"
+}

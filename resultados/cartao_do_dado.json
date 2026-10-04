@@ -1,0 +1,65 @@
+{
+  "recorte": {
+    "anos": [
+      2022,
+      2023,
+      2024
+    ],
+    "tipo": "PL",
+    "maximo_por_ano": 1500
+  },
+  "baixado_em": "2026-10-04 10:55",
+  "minutos_de_coleta": 41.3,
+  "fonte": "https://dadosabertos.camara.leg.br/api/v2",
+  "taxonomia": {
+    "origem": "lista oficial em /referencias/proposicoes/codTema",
+    "n_temas": 32,
+    "temas": [
+      "Administração Pública",
+      "Agricultura, Pecuária, Pesca e Extrativismo",
+      "Arte, Cultura e Religião",
+      "Cidades e Desenvolvimento Urbano",
+      "Ciência, Tecnologia e Inovação",
+      "Ciências Exatas e da Terra",
+      "Ciências Sociais e Humanas",
+      "Comunicações",
+      "Defesa e Segurança",
+      "Direito Civil e Processual Civil",
+      "Direito Constitucional",
+      "Direito Penal e Processual Penal",
+      "Direito e Defesa do Consumidor",
+      "Direito e Justiça",
+      "Direitos Humanos e Minorias",
+      "Economia",
+      "Educação",
+      "Energia, Recursos Hídricos e Minerais",
+      "Esporte e Lazer",
+      "Estrutura Fundiária",
+      "Finanças Públicas e Orçamento",
+      "Homenagens e Datas Comemorativas",
+      "Indústria, Comércio e Serviços",
+      "Meio Ambiente e Desenvolvimento Sustentável",
+      "Política, Partidos e Eleições",
+      "Previdência e Assistência Social",
+      "Processo Legislativo e Atuação Parlamentar",
+      "Relações Internacionais e Comércio Exterior",
+      "Saúde",
+      "Trabalho e Emprego",
+      "Turismo",
+      "Viação, Transporte e Mobilidade"
+    ]
+  },
+  "coleta": {
+    "proposicoes": 4500,
+    "por_ano": {
+      "2022": 1500,
+      "2023": 1500,
+      "2024": 1500
+    },
+    "com_ao_menos_um_tema": 4494,
+    "sem_tema": 6,
+    "falhas": [],
+    "n_falhas": 0,
+    "coleta_completa": true
+  }
+}
