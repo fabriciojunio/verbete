@@ -5,6 +5,8 @@ oficial de 32 temas da Câmara dos Deputados. É o motor de um produto de
 monitoramento regulatório: saber, no dia em que a proposição é apresentada,
 quais clientes ela afeta.
 
+**Os números no ar:** [https://fabriciojunio.vercel.app/resultados/verbete](https://fabriciojunio.vercel.app/resultados/verbete) · a curva de abstenção, com cobertura de um lado e F1 do outro, sem precisar rodar nada.
+
 ```
 python experimentos/01_coletar.py --anos 2022 2023 2024 --maximo-por-ano 1500
 python experimentos/02_treinar.py --ano-de-teste 2024
