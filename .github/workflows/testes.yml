@@ -2,7 +2,7 @@ name: testes
 
 on:
   push:
-    branches: [main, master]
+    branches: ["produção", "homologação"]
   pull_request:
 
 permissions:
